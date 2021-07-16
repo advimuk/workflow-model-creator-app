@@ -1,0 +1,10 @@
+.entityContainer{
+    
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+
+.entityWrapper{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.App-body{
+
+  background-color: gainsboro;
+  min-height: 100vh;  
+}
+
+.App-header {
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-header h1{
+  margin:0;
+  font-size:2rem;
+}
+
+.App-link {
+  color: #61dafb;
+}
+

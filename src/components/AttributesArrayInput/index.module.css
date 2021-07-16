@@ -1,0 +1,7 @@
+.attributeContainer{
+    /* flex-direction: row; */
+    /* flex-wrap: nowrap; */
+    /* align-content: space-between; */
+    align-items: center;
+    display: flex;   
+}
